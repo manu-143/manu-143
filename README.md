@@ -1,4 +1,5 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Mansi!
+<a href="mailto:mdkamthane@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a> <a href="https://www.linkedin.com/in/mansi2000/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a>
 
 
 
